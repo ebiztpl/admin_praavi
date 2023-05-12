@@ -1,0 +1,1 @@
+import{r as o,o as t,k as s,l as c,f as r}from"./app.537b83f5.js";const i={name:"PayrollConfig"},u=Object.assign(i,{setup(l){const e=[{name:"PayrollConfigGeneral",icon:"fas fa-cogs",label:"config.config"}];return(_,f)=>{const n=o("router-view"),a=o("ModuleConfig");return t(),s(a,{navigations:e},{default:c(()=>[r(n)]),_:1})}}});export{u as default};

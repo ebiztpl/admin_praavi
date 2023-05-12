@@ -1,0 +1,1 @@
+import{r as e,o as a,k as c,l as s,f as i}from"./app.537b83f5.js";const r={name:"AttendanceConfig"},u=Object.assign(r,{setup(_){const o=[{name:"AttendanceConfigGeneral",icon:"fas fa-cogs",label:"config.config"}];return(f,l)=>{const n=e("router-view"),t=e("ModuleConfig");return a(),c(t,{navigations:o},{default:s(()=>[i(n)]),_:1})}}});export{u as default};
